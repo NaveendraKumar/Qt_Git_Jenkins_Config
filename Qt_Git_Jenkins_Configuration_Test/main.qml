@@ -13,7 +13,7 @@ Window {
         color: "red"
         Text {
             id: t1
-            text:"Navin"
+            text:"Navi"
         }
     }
     Rectangle{
