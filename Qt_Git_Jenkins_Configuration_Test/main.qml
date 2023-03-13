@@ -24,6 +24,7 @@ Window {
         Text {
             id: t2
             text: "sree"
+            color: "white"
         }
         anchors.centerIn: parent
     }
