@@ -35,5 +35,6 @@ Window {
         height: 100
         color: "green"
         anchors.bottom: parent.bottom
+        anchors.horizontalCenter: parent.horizontalCenter
     }
 }
