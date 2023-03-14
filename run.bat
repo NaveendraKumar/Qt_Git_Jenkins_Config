@@ -1,2 +1,2 @@
 echo "Hello Naveendra Kumar"
-pwd
+dir
