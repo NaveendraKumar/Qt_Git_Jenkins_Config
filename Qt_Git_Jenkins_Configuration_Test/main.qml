@@ -36,5 +36,9 @@ Window {
         color: "green"
         anchors.bottom: parent.bottom
         anchors.horizontalCenter: parent.horizontalCenter
+        Text {
+            id: t4
+            text: qsTr("text")
+        }
     }
 }
