@@ -27,5 +27,13 @@ Window {
             color: "white"
         }
         anchors.centerIn: parent
+
+    }
+    Rectangle{
+        id:r3
+        width: 100
+        height: 100
+        color: "green"
+        anchors.bottom: parent.bottom
     }
 }
